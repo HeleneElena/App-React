@@ -10,19 +10,5 @@
   grid-gap: 10px;
 }
 
-.header {
-  grid-area: h;
-  background-color: aquamarine;
-}
-.header img {
-  width: 20px;
-}
-.nav {
-  grid-area: n;
-  background-color: azure;
-}
-.content {
-  grid-area: c;
-  background-color: chartreuse;
 
-}
+
