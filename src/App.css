@@ -14,4 +14,16 @@
   grid-area: c;
   background-color: green;
 }
+.header {
+  grid-area: h;
+  background: #6045E2;
+}
+.nav {
+  grid-area: n;
+  background: #6045E2;
+  color: white;
+} 
+.content {
+  grid-area: c;
+}
 
