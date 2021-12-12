@@ -1,12 +1,13 @@
 .nav {
     margin-top: 20px;
     padding-top: 20px;
-    padding-bottom: 50px;
+    padding-bottom: 480px;
 }
 .a {
    margin-left: 20px;
    text-decoration: none; 
    color: azure;
+   height: 25px;
 }
 .a:hover {
     color: rgb(228, 214, 27);
