@@ -1,0 +1,13 @@
+.nav {
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.a {
+   margin-left: 20px;
+   text-decoration: none; 
+   color: azure;
+}
+.a:hover {
+    color: rgb(228, 214, 27);
+}

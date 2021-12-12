@@ -12,13 +12,15 @@
 
 .app-wrapper-content {
   grid-area: c;
-  background-color: green;
+  background-color: white;
 }
 .header {
   grid-area: h;
   background: #6045E2;
 }
+
 .nav {
+  display: grid;
   grid-area: n;
   background: #6045E2;
   color: white;
