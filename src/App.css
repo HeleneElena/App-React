@@ -10,12 +10,6 @@
   grid-gap: 10px;
 }
 
-.appWrapperConntent {
-  grid-area: c;
-  background-color: white;
-  margin-top: 20px;
-  margin-left: 20px;
-}
 .header {
   grid-area: h;
   background: #6045E2;
@@ -29,5 +23,12 @@
 } 
 .content {
   grid-area: c;
+}
+
+.appWrapperConntent {
+  grid-area: c;
+  background-color: white;
+  margin-top: 20px;
+  margin-left: 20px;
 }
 

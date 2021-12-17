@@ -1,5 +1,5 @@
 import React from 'react';
-import s from './App.module.css';
+import './App.css';
 import Profile from './components/Profile/Profile';
 import Navbar from './components/Navbar/Navbar';
 import Header from './components/Header/Header';
@@ -7,7 +7,7 @@ import Header from './components/Header/Header';
 
 const App = () => {
   return (
-    <div className={s.appWrapper} >
+    <div className="appWrapper" >
       <Header />
       <Navbar />
       <Profile />

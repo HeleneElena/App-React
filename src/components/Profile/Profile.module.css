@@ -2,6 +2,7 @@
     width: 1250px;
     height: 180px;
     background-color: #FF769A;
+    margin-top: 25px;
 }
 .ava {
     width: 180px;
@@ -12,6 +13,7 @@
 }
 .profileBanner {
     display: flex;
+    
 }
 .discription {
     margin-top: 20px;
