@@ -1,15 +1,17 @@
-.nav {
+.navbar {
+    margin-left: 236px;
     margin-top: 20px;
-    padding-top: 20px;
-    padding-bottom: 480px;
     background: #6045E2;
+    width: 250px;
+    height: 700px;
+    padding-top: 20px;
+    
 }
-.a {
-   margin-left: 20px;
-   text-decoration: none; 
-   color: azure;
-   height: 25px;
+.nav {
+    margin-bottom: 5px;
 }
-.a:hover {
-    color: rgb(228, 214, 27);
+.link {
+    margin-top: 20px;
+    margin-left: 20px;
+    color: #fff;
 }
