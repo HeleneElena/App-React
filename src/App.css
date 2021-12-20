@@ -1,13 +1,13 @@
 .appWrapper {
-  {/* display: grid; 
+/* display: grid; 
    width: 1400px;
-  margin: 0 auto; */}
-{/*   grid-template-areas: 
+  margin: 0 auto; */
+/*   grid-template-areas: 
   "h h"
   "n c";
   grid-template-rows: 60px 1fr;
   grid-template-columns: 2fr 10fr;
-  grid-gap: 10px; */}
+  grid-gap: 10px; */
 }
 
 .header {
@@ -16,17 +16,19 @@
 }
 
 .nav {
-  display: grid;
+  display: flex;
   grid-area: n;
   background: #6045E2;
   color: white;
 } 
 .content {
-  grid-area: c;
+  /* grid-area: c; */
+  display: flex;
 }
 
 .appWrapperConntent {
-  grid-area: c;
+  /* grid-area: c; */
+  display: flex;
   background-color: white;
   margin-top: 20px;
   margin-left: 20px;

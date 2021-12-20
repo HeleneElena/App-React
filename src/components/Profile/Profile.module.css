@@ -1,0 +1,16 @@
+.banner {
+    width: 900px;
+    height: 80px;
+    background: #FF769A;
+}
+.foto {
+    width: 50px;
+    height: 50px;
+    background: #FFC619;
+}
+.name {
+    font-size: 20px;
+}
+.datei {
+    font-size: 15px;
+}
