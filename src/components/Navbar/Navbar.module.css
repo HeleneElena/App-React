@@ -1,6 +1,4 @@
 .navbar {
-    margin-left: 236px;
-    margin-top: 20px;
     background: #6045E2;
     width: 250px;
     height: 700px;
@@ -14,4 +12,7 @@
     margin-top: 20px;
     margin-left: 20px;
     color: #fff;
+}
+.link:hover {
+    color: burlywood;
 }
