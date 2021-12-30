@@ -1,17 +1,18 @@
 .navbar {
     background: #6045E2;
     width: 250px;
-    height: 700px;
+    height: 900px;
     padding-top: 20px;
     
 }
 .nav {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 .link {
     margin-top: 20px;
     margin-left: 20px;
     color: #fff;
+    cursor: pointer;
 }
 .link:hover {
     color: burlywood;

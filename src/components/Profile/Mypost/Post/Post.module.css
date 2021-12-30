@@ -1,0 +1,25 @@
+.posts {
+    display: flex;
+
+}
+.post {
+    margin-top: 20px;
+    cursor: pointer;
+}
+.circle {
+    border-radius: 100%;
+    background-color: #FFC619;
+    width: 37px;
+    height: 37px;
+    margin-right: 35px;
+    margin-bottom: 30px;
+}
+.text {
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    text-align: center;
+    font-weight: normal;
+    margin: 0;
+    margin-top: -13px;
+}

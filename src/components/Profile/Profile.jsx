@@ -2,7 +2,7 @@ import React from 'react';
 import Mypost from './Mypost/Mypost';
 import s from './Profile.module.css';
 
-const Profile = () => {
+const Profile = (props) => {
     return (
         <div> 
             <div className={s.message}>
