@@ -1,0 +1,11 @@
+.circle1 {
+    border-radius: 100%;
+    background-color: #FFC619;
+    width: 68px;
+    height: 68px;
+    margin-bottom: 48px;
+}
+.signature {
+    margin-top: 63px;
+    margin-left: 10px;
+}
