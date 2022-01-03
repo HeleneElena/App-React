@@ -7,6 +7,7 @@ const Post = (props) => {
             <div className={s.circle}></div>
             <div className={s.post}>
                 <p className={s.text}> { props.message } </p> 
+                <button className={s.likes}> like: { props.likesCount } </button>
             </div>  
         </div>
     )

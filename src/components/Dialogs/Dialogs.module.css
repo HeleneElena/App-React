@@ -17,9 +17,6 @@
     margin-top: 21px;
     margin-bottom: 34px;
 }
-
-.person {
-    display: flex;
-    margin-top: 25px;
+.communication {
+    position: absolute;
 }
-
